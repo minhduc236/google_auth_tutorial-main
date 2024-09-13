@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "991561743550",
+    "firebase_url": "https://todo-92bae-default-rtdb.firebaseio.com",
+    "project_id": "todo-92bae",
+    "storage_bucket": "todo-92bae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991561743550:android:bb1d127ae3d996784d72ef",
+        "android_client_info": {
+          "package_name": "com.example.taskapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991561743550-a0b5rc8t3djii5jljs0utj0vlvnds147.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taskapp",
+            "certificate_hash": "0b82e72ecc7dabb1868941e9a72765e6554c0c4b"
+          }
+        },
+        {
+          "client_id": "991561743550-c2c1m0hj35n4j84pueeslcmg1ie4vr7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrayA610JMSUDuR_03lQRsPXG1qaH1lMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991561743550-c2c1m0hj35n4j84pueeslcmg1ie4vr7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
